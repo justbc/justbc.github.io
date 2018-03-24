@@ -150,7 +150,7 @@ ul li {
 	letter-spacing: 2px;
 	margin-left: 40px;
 }
-.navigation a:hover, .navigation a.active {
+.navigation a:hover {
 	color: #262626;
 }
 .nav-toggle {
